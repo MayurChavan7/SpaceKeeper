@@ -60,10 +60,6 @@
 
 ---
 
-## 🖥️ Preview
-### 📊 Dashboard View
-> Add an image or gif here showing the dashboard, for example:
-![Dashboard Preview](#)
 
 ---
 
