@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Loopline: File Management and Collaboration Platform</h1>
+<h1 align="center">🌐 SpaceKeeper: File Management and Collaboration Platform</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" alt="React 19" />
